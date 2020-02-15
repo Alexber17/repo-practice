@@ -1,3 +1,2 @@
 # repo-practice
-
-exander Bermudez's First Repository!
+Alexander Bermudez's First Repository!
